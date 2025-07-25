@@ -142,7 +142,7 @@ Fact table : It will have the data about the transactions
 - Following Good practices of data modeling is must. Refer this page to get to know the good practices Blog
 - In this project, we have followed Snowfall data modeling method.
 
-![](model)
+
 
 ## Dashboard designing
 Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required
@@ -157,23 +157,7 @@ In Home view, all the views button will be available. User will land on specific
 - Supply chain View
 - Executive View
 
-## Home
-![](info)
 
-## Finance view
-![](finance).
-
-## Sales view
-![](Sales view)
-
-## Marketing view
-![](Marketing view)
-
-## Supply chain view
-![](supply chain view)
-
-## Executive View
-![](excecutive view)
 
 
 you can find the full report file here : [Here live report link](https://app.powerbi.com/links/JhM76t8BQA?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare&bookmarkGuid=484d52fb-5a7e-48ef-a436-f8d926e098c0)
