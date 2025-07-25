@@ -142,7 +142,7 @@ Fact table : It will have the data about the transactions
 - Following Good practices of data modeling is must. Refer this page to get to know the good practices Blog
 - In this project, we have followed Snowfall data modeling method.
 
-![](model connection)
+![](model)
 
 ## Dashboard designing
 Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required
@@ -161,7 +161,7 @@ In Home view, all the views button will be available. User will land on specific
 ![](info)
 
 ## Finance view
-![](finance view).
+![](finance).
 
 ## Sales view
 ![](Sales view)
